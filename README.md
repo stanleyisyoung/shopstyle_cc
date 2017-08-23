@@ -1,6 +1,13 @@
-Shop Style (Ebates) Challenge
+
+<h2> ShopStyle (Ebates) Coding Challenge</h2>
+Solved using Python 3.
+
+Run program by typing the following into the command line:
+  <i>python3 ebates.py</i>
 
 
+Problem:
+```
 Exercise: Using any language of your choice write a script that does the following:
 Call http://api.viki.io/v4/videos.json?app=100250a&per_page=10&page=1
 
@@ -11,4 +18,4 @@ The response is a JSON object which has a response key which is an array of more
 Print out how many response objects have flags:hd set to true and how many have hd set to false.
 
 Finally, please check in your code onto GitHub and share the link.
-
+```
