@@ -31,7 +31,7 @@ def getPage(page_num, data):
     data = json.loads(page.decode('utf-8'))
     return data
 
-
+# Count the number of hd tags for every page
 def count_all(hd_true, hd_false):
     page_num = 1
     data = dict()
@@ -49,7 +49,7 @@ def count_all(hd_true, hd_false):
 
     return (hd_true, hd_false)
 
-
+# Start program
 def main():
     hd_true = 0
     hd_false = 0
