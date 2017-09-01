@@ -7,7 +7,8 @@ import json
 import time
 import hashlib
 from urllib.request import Request, urlopen
-from password import secret
+# from password import secret
+secret = 'PASTE SECRET KEY HERE'
 
 # Check request for valid JSON, store as dictionary
 def validJson(page):
