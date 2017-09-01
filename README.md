@@ -1,9 +1,9 @@
 
 <h2> ShopStyle (Ebates) Coding Challenge</h2>
-Solved using Python 3.
+Solved using Python v3.5.3
 
-Run program by typing the following into the command line:
-  <i>python3 ebates.py</i>
+Run program via command line with:
+  <b><i>python3 hd_counter.py</i></b>
 
 
 Problem:
